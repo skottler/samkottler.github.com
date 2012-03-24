@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Kottler]]></title>
   <link href="http://samkottler.com/atom.xml" rel="self"/>
   <link href="http://samkottler.com/"/>
-  <updated>2012-03-24T14:41:46-04:00</updated>
+  <updated>2012-03-24T19:43:45-04:00</updated>
   <id>http://samkottler.com/</id>
   <author>
     <name><![CDATA[Sam Kottler]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[extconf.rb:59:in <main>: Compilation of fsevent_watch failed (see README) (RuntimeError)]]></title>
+    <link href="http://samkottler.com/blog/2012/03/24/extconf-dot-rb-59-in-compilation-of-fsevent-watch-failed-see-readme-runtimeerror/"/>
+    <updated>2012-03-24T19:41:00-04:00</updated>
+    <id>http://samkottler.com/blog/2012/03/24/extconf-dot-rb-59-in-compilation-of-fsevent-watch-failed-see-readme-runtimeerror</id>
+    <content type="html"><![CDATA[<p><code>sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/</code></p>
+]]></content>
+  </entry>
   
 </feed>
