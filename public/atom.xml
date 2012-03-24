@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Sam Kottler]]></title>
+  <link href="http://samkottler.com/atom.xml" rel="self"/>
+  <link href="http://samkottler.com/"/>
+  <updated>2012-03-24T14:41:46-04:00</updated>
+  <id>http://samkottler.com/</id>
+  <author>
+    <name><![CDATA[Sam Kottler]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
